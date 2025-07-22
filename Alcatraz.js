@@ -13,13 +13,6 @@
 //● Github: https://github.com/GalackQSM/Alcatraz                                                      
 //=======================================================================                                                                      
 
-require('dotenv').config(); 
-
-const Discord = require('discord.js');
-const client = new Discord.Client();
-
-const token = process.env.MTM5NzE5NzU3Njc3MTQ3MzQ0OA.GqjoTp.UyzPRBt2ytKboCiS5-xepw9TZRgcWMyS0fkjvo;
-
 const config = require('./config.json');
 const Client = require('./src/Client.js');
 const { Intents, Collection } = require('discord.js');
