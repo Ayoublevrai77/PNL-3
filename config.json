@@ -1,11 +1,11 @@
 {
-  "ownerId": "TON ID",
-  "ownerTag": "TON TAG",
+  "ownerId": "975701182657998858",
+  "ownerTag": "1321422547908169799",
 
-  "token": "TOKEN BOT",
+  "token": "MTM5NzE5NzU3Njc3MTQ3MzQ0OA.G3Pyds.cCKs988bhtBIrfJWQg97EF5sSotkJlLe6czpDw",
   "BotID": "ID BOT",
-  "version": "VERSION BOT",
-  "NomBot": "NOM DU BOT",
+  "version": "16.20.0",
+  "NomBot": "/QLF",
   "footer": "FOOTER",
 
   "Topgg": "Cle api pour https://top.gg",
@@ -17,11 +17,11 @@
 
   "ANTI_INSULTE" : ["putin", "fdp", "enculer", "fils de pute", "salope", "ntm", "nique ta mere", "connard", "batard", "sale noir", "baise ta mere", "mange tes morts", "ta gueule", "bâtard", "nique ta mère"],
 
-  "NomServeur": "NOM DU SERVEUR SUPPORT",
-  "Support": "LIEN D'INVITATION SANS EXPIRATION",
+  "NomServeur": "/QLF",
+  "Support": "discord.gg/QBbAPucAep",
   "bugReportChannelId": "ID DU SALON REPORT",
-  "modlogChannelId": "ID DU SALON LOG",
-  "ticketChannelId": "ID DU SALON TICKET",
+  "modlogChannelId": "1321422549434896417",
+  "ticketChannelId": "1397203937991463025",
   "apiKeys": {
     "catApi": "44d2e7c1-e82b-4fba-bec2-e6b07affb71f",
     "googleApi": "AIzaSyCk09BwA1RxwuvEgKkTWqveGqyPfuCMqUI"
